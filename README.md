@@ -14,7 +14,7 @@ I performed analysis in a variety of ways, one of which includes the use of cond
 
 
 ### Analysis of Outcomes Based on Launch Date
-I was able to create a pivot table to chart out the amount of successful, failed, and canceled theater startups there were by month and year. This would aid Louise in making a decision as to when she should launch her own startup. Given this data we can conclude that the best month to launch a theater kickstarter is May, as we notice the number of successful outcomes is 111. 
+I was able to create a pivot table to chart out the amount of successful, failed, and canceled theater startups there were by month and year. This would aid Louise in making a decision as to when she should launch her own startup. Given this data we can conclude that the best month to launch a theater kickstarter is May, as we notice the number of successful outcomes is 111. We are also able to conclude that Dcember has almost the same number as failed outcoms as successful ones.
 ### Analysis of Outcomes Based on Goals
 For this section of analysis, I was able to write a series of COUNTIFS formulas to pull the number of Successful, Failed, and Canceled outcomes pased on a variety of Goal ranges for the subategory Plays. After calculating the percentages and charting the figures using a line graph, we are able to deduce that the amount of successful plays is much higher in the 0-4,999 as well as in the 35,000-39,999 range. However, we see huge dips in success rate when the goal is 25,000-29,999 as well as anything greater than 45,000.
 
